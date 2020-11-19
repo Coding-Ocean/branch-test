@@ -4,5 +4,6 @@ void gmain() {
     while (notQuit) {
         clear(240, 200, 200);
         circle(50, 50, 100);
+        rect(100, 0, 100, 100);
     }
 }
