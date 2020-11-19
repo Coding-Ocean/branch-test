@@ -3,5 +3,6 @@ void gmain() {
     window(640, 360);
     while (notQuit) {
         clear(240, 200, 200);
+        circle(50, 50, 100);
     }
 }
